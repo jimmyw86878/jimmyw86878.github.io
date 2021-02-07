@@ -12,7 +12,7 @@ Conference: [CloudNet 2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eve
 
 ##### Contributions
 
-The list is some of my contributions to the open source community. It may be reported as an issue mostly.
+The list is some of my contributions to the open source community. It may be reported as an issue mostly. In the meantime, I also provide some workarounds for the issues I encountered.
 
 - Ansible
 
@@ -21,3 +21,7 @@ The list is some of my contributions to the open source community. It may be rep
 - Rancher
 
 [Kubectl command line will not work in rancher UI](https://github.com/rancher/rancher/issues/30875)
+
+[Launching kubectl/shell for the cluster doesn't use a private registry for the image](https://github.com/rancher/rancher/issues/30735)
+
+[Image policy of metrics-server](https://github.com/rancher/rke/issues/1356)
