@@ -12,7 +12,7 @@ Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科
 
 ##### 開源社群貢獻
 
-這邊是想將我對Opensource的一些貢獻也列出來，多半可能是 report 一些 bug XD。
+這邊是想將我對Opensource的一些貢獻也列出來，多半可能是 report 一些 bug XD 或是提供我遇到 bug 的一些 workarounds。
 
 - Ansible
 
@@ -22,4 +22,7 @@ Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科
 
 [Kubectl command line will not work in rancher UI](https://github.com/rancher/rancher/issues/30875)
 
+[Launching kubectl/shell for the cluster doesn't use a private registry for the image](https://github.com/rancher/rancher/issues/30735)
+
+[Image policy of metrics-server](https://github.com/rancher/rke/issues/1356)
 
