@@ -26,3 +26,5 @@ Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科
 
 [Image policy of metrics-server](https://github.com/rancher/rke/issues/1356)
 
+[Etcd cluster is unhealthy](https://github.com/rancher/rancher/issues/29465)
+
