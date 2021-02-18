@@ -25,3 +25,5 @@ The list is some of my contributions to the open source community. It may be rep
 [Launching kubectl/shell for the cluster doesn't use a private registry for the image](https://github.com/rancher/rancher/issues/30735)
 
 [Image policy of metrics-server](https://github.com/rancher/rke/issues/1356)
+
+[Etcd cluster is unhealthy](https://github.com/rancher/rancher/issues/29465)
