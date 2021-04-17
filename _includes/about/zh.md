@@ -1,4 +1,4 @@
-Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科技大學](https://www.ntust.edu.tw/home.php), 目前在[鴻海](https://www.foxconn.com/zh-tw/)擔任軟體工程師, 現居台北。
+Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科技大學](https://www.ntust.edu.tw/home.php), 目前在[鴻海](https://www.foxconn.com/zh-tw/)的 FG 雲網科技服務次集團 5G 部門擔任軟體工程師, 現居台北。
 
 剛出社會的菜鳥工程師，目前將會在雲的領域上開發學習，期許自己可以更豐富自己的文章跟資訊。
 
@@ -27,4 +27,8 @@ Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科
 [Image policy of metrics-server](https://github.com/rancher/rke/issues/1356)
 
 [Etcd cluster is unhealthy](https://github.com/rancher/rancher/issues/29465)
+
+- openshift-ansible (OKD 3.11)
+
+[An issue when uninstalling a node](https://github.com/openshift/openshift-ansible/issues/12321)
 

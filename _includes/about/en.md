@@ -27,3 +27,7 @@ The list is some of my contributions to the open source community. It may be rep
 [Image policy of metrics-server](https://github.com/rancher/rke/issues/1356)
 
 [Etcd cluster is unhealthy](https://github.com/rancher/rancher/issues/29465)
+
+- openshift-ansible (OKD 3.11)
+
+[An issue when uninstalling a node](https://github.com/openshift/openshift-ansible/issues/12321)
