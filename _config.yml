@@ -103,6 +103,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
+        title: "老靈魂channing333",
+        href: "https://channing333.github.io/"
+    },
+    {
         title: "HanYi",
         href: "https://github.com/hyt0617"
     },
