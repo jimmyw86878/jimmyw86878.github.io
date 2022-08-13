@@ -1,6 +1,6 @@
-Hi, I am YuHao Chen, my friends always call me "豪豪" or Jimmy. I graduated from [NTUST](https://www.ntust.edu.tw/home.php). Currently, I am working in [HON HAI](https://www.foxconn.com/zh-tw/) as a software engineer, living in Taipei.
+Hi, I am YuHao Chen, my friends always call me "豪豪" or Jimmy. I graduated from [NTUST](https://www.ntust.edu.tw/home.php). Currently, I am working in [Mediatek](https://www.mediatek.tw/) as a software engineer, living in Hsinchu.
 
-I am just a rookie and will be learning the technology in the cloud area, and looking forward to sharing more information about my career.
+Dedicated to `DevOps` services and technology.
 
 ##### Master’s thesis
 

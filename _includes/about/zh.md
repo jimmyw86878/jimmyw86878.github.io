@@ -1,6 +1,6 @@
-Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科技大學](https://www.ntust.edu.tw/home.php), 目前在[鴻海](https://www.foxconn.com/zh-tw/)的 FG 雲網科技服務次集團 5G 部門擔任軟體工程師, 現居台北。
+Hi, 我是陳昱豪, 身邊朋友都叫我豪豪或是Jimmy, 畢業於[台灣科技大學](https://www.ntust.edu.tw/home.php), 畢業後在[鴻海](https://www.foxconn.com/zh-tw/)的 FG 雲網科技服務次集團 5G 部門擔任軟體工程師三年多, 目前任職於[聯發科](https://www.mediatek.tw/)。
 
-剛出社會的菜鳥工程師，目前將會在雲的領域上開發學習，期許自己可以更豐富自己的文章跟資訊。
+在 IC design house 翻滾的軟體工程師，致力開發 `DevOps` 的技術及服務。
 
 ##### 碩士論文
 

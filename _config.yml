@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Yuhao, 豪豪, Jimmy <br> Software Engineer <br> 菜鳥工程師 <br> To make each day count. <br> Gmail: jimmyw86878@gmail.com"
+sidebar-about-description: "Yuhao, 豪豪, Jimmy <br> Software Engineer <br> 在 IC design 翻滾的軟體人 <br> To make each day count. <br> Gmail: jimmyw86878@gmail.com"
 sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
